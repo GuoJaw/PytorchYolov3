@@ -11,11 +11,11 @@
 
 2、pip环境
 
-      (1)安装CUDA8.0   CuDnn6
-      (2)安装opencv3.4.1
-      (3)安装pytorch （python3.5）
-          sudo pip3 install http://download.pytorch.org/whl/cu80/torch-0.3.1-cp35-cp35m-linux_x86_64.whl
-          sudo pip3 install torchvision
+    (1)安装CUDA8.0   CuDnn6
+    (2)安装opencv3.4.1
+    (3)安装pytorch （python3.5）
+      sudo pip3 install http://download.pytorch.org/whl/cu80/torch-0.3.1-cp35-cp35m-linux_x86_64.whl
+      sudo pip3 install torchvision
                   
 conda/pip安装pytorch 0.3.1教程(mac/windos/linux) : https://ptorch.com/news/145.html
       
