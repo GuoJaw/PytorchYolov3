@@ -347,7 +347,7 @@ if __name__ == '__main__':
             # crop_size = (1080, 720)
             # orig_im = cv2.resize(orig_im, crop_size, interpolation=cv2.INTER_CUBIC)
             cv2.imshow("frame", orig_im)
-            key = cv2.waitKey(0)
+            key = cv2.waitKey(1)
             if key & 0xFF == ord('q'):
                 break
             frames += 1.0
